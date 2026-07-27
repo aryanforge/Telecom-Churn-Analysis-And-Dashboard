@@ -182,7 +182,7 @@ Telecom-Churn-Analysis/
 ---
 
 ## 📷 Dashboard Preview
-
+<img width="835" height="532" alt="image" src="https://github.com/user-attachments/assets/f85ad2db-e01e-4406-971c-8ef7e95238c9" />
 
 
 ---
